@@ -14,18 +14,6 @@ Work Life: I work for Microsoft as a Cloud Solution Arhitect, specializeding in 
 
 Passions: I coach track and field and recently earned my USATF Level I certification. I'm a serial coach for my kids' sport when a coach or help is needed (I've done baseball, softball, basketball, soccer, track and chess).  I'm also an accomplished brewer and proud of my Trappist inspired ales.  
 
+Faith: I'm a follower of Jesus Christ.  I started my faith journey as a Lutheran, but converted to Roman Catholicism in 2004 shortly after my first son was born.  If you're curious why, please just ask. 
 
 
--- Below is the default stuff that came with this blog.  
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
