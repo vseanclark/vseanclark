@@ -6,7 +6,7 @@ permalink: /about/
 
 Should I speak about Sean Clark in the third person on not? That is the question. Let's go first person so as not to confuse anyone.
 
-I am Sean Clark. Iowa born and raised. I met the love of my life as a freshman at Manning High School in Manning, Iowa. Robin has given me 4 wonderful and beautiful children and nearly 20 years of marriage that has been a treasure. Without marrying Robin, I may have never converted to the Roman Catholic faith, as well.  For that, I'm most thankful.
+I am Sean Clark. Iowa born and raised. I met the love of my life as a freshman at Manning High School in Manning, Iowa. Robin has given me 4 wonderful and beautiful children and nearly 20 years of marriage that has been a treasure. Without marrying Robin, I may have never converted to the Roman Catholic faith, as well.  For that, I'm most thankful. ![Clark Fam Easter 2018](/photos/Easter2018Clark.jpg)
 
 Born and raised in small town Manning, Iowa, I'm a unapologetic Iowa State Cylcone and Iowa Hawkey fan, except when they play each other (sorry Hawk fans!).  I think Iowa is one of nicest places on Earth.  If you don't believe me, come visit and if you can, ride [RAGBRAI](https://ragbrai.com). Robin and I graduated from [Central College](https://www.central.edu) in Pella, Iowa. Go Dutch! But alas, we are all now Iowa expatriates living in Bloomington, Illinois. 
 
