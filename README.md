@@ -1,5 +1,5 @@
 ## Welcome to my gitops journey
-A special focus on this journey will be saving humanity from sentient robots taking over the world and fighting demons.
+A special focus on this journey will be saving humanity from sentient robots taking over the world. **Only you can prevent Skynet!**
 
 1. This is my markdown list.
 2. It has 2 numbered items.
