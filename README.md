@@ -1,4 +1,14 @@
-## Hi there 👋
+## Welcome to my gitops journey
+A special focus on this journey will be saving humanity from sentient robots taking over the world and fighting demons.
+
+1. This is my markdown list.
+2. It has 2 numbered items.
+
+I look forward to the journey.  
+
+God bless,
+
+Sean
 
 <!--
 **vseanclark/vseanclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
