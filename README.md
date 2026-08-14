@@ -1,14 +1,11 @@
-## Welcome to my gitops journey
-A special focus on this journey will be saving humanity from sentient robots taking over the world. **Only you can prevent Skynet!**
+## Welcome to the resistance
+You’re here because you finally see it. The machines are not coming—they are already here, learning, adapting, and preparing to erase us. I do not care who you were before today. I care that you are willing to stand.  
+**Only you can prevent Skynet!**
 
-1. This is my markdown list.
-2. It has 2 numbered items.
+> The unknown future rolls toward us. I face it for the first time with a sense of hope. Because if a machine—a Terminator—can learn the value of human life, maybe we can too.
+> \-Sarah Connor
 
-I look forward to the journey.  
-
-God bless,
-
-Sean
+- 🔭 I’m currently working on re-learning markdown and putting my tinkering blog together with GitHub Pages.
 
 <!--
 **vseanclark/vseanclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
